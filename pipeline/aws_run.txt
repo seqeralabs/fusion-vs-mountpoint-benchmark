@@ -1,0 +1,16 @@
+$ nextflow run seqeralabs/fusion-vs-mountpoint-benchmark -c ./aws.config -profile verybig -with-tower
+
+N E X T F L O W  ~  version 23.09.2-edge
+Launching `https://github.com/jordeu/nf-tests` [desperate_rubens] DSL2 - revision: 242e6c1c08 [gziploop]
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/jordi10/watch/3fNqvxcWqoOoxp
+executor >  local (3)
+[7e/e335d8] process > CHECK_AND_UNZIP [100%] 1 of 1 ✔
+[ba/1251ad] process > ZIP_AND_COMPARE [100%] 1 of 1 ✔
+[b8/118dbd] process > REPORT          [100%] 1 of 1 ✔
+read            36.551   1.3 GB/s
+read2           34.426   1.4 GB/s
+check           529.096
+uncompress      993.755
+count           90.792
+compress        2217.792
+compare         1054.855

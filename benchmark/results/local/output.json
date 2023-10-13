@@ -1,0 +1,97 @@
+[
+  {
+    "name": "random_write",
+    "value": 1822.8603515625,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "random_read",
+    "value": 5288.5693359375,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_read",
+    "value": 7582.822265625,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_write_direct_io",
+    "value": 1209.826171875,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "random_read_four_threads",
+    "value": 27399.2841796875,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_read_four_threads",
+    "value": 23186.515625,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_write",
+    "value": 1268.142578125,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "random_read_four_threads_direct_io",
+    "value": 2449.255859375,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "random_read_four_threads_direct_io_small_file",
+    "value": 2379.0625,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "random_read_four_threads_small_file",
+    "value": 75277.7060546875,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "random_read_direct_io",
+    "value": 1306.87890625,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "random_read_direct_io_small_file",
+    "value": 1320.794921875,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "random_read_small_file",
+    "value": 18105.1591796875,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_read_four_threads_direct_io",
+    "value": 2294.6123046875,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_read_four_threads_direct_io_small_file",
+    "value": 2447.4208984375,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_read_four_threads_small_file",
+    "value": 68209.35546875,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_read_direct_io",
+    "value": 1925.8828125,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_read_direct_io_small_file",
+    "value": 1607.9814453125,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_read_small_file",
+    "value": 18848.72265625,
+    "unit": "MiB/s"
+  }
+]

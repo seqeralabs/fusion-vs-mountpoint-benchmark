@@ -1,0 +1,97 @@
+[
+  {
+    "name": "random_write",
+    "value": 0,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_write",
+    "value": 137.52734375,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "random_read",
+    "value": 1.4833984375,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_read",
+    "value": 85.1494140625,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_write_direct_io",
+    "value": 139.453125,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "random_read_four_threads",
+    "value": 6.625,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_read_four_threads",
+    "value": 24.0849609375,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "random_read_four_threads_direct_io",
+    "value": 6.3994140625,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "random_read_four_threads_direct_io_small_file",
+    "value": 44.384765625,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "random_read_four_threads_small_file",
+    "value": 76770.5615234375,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "random_read_direct_io",
+    "value": 1.65625,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "random_read_direct_io_small_file",
+    "value": 10.0478515625,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "random_read_small_file",
+    "value": 19109.0986328125,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_read_four_threads_direct_io",
+    "value": 379.6826171875,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_read_four_threads_direct_io_small_file",
+    "value": 351.5927734375,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_read_four_threads_small_file",
+    "value": 62192.0234375,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_read_direct_io",
+    "value": 80.384765625,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_read_direct_io_small_file",
+    "value": 87.5869140625,
+    "unit": "MiB/s"
+  },
+  {
+    "name": "sequential_read_small_file",
+    "value": 18961.5439453125,
+    "unit": "MiB/s"
+  }
+]
