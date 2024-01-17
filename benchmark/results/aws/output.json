@@ -6,92 +6,92 @@
   },
   {
     "name": "sequential_write",
-    "value": 0,
+    "value": 1427.79296875,
     "unit": "MiB/s"
   },
   {
     "name": "random_read",
-    "value": 1.44140625,
+    "value": 1.6806640625,
     "unit": "MiB/s"
   },
   {
     "name": "sequential_read",
-    "value": 3.2763671875,
+    "value": 6401.572265625,
     "unit": "MiB/s"
   },
   {
     "name": "sequential_write_direct_io",
-    "value": 1410.046875,
+    "value": 1425.0380859375,
     "unit": "MiB/s"
   },
   {
     "name": "random_read_four_threads",
-    "value": 7.3564453125,
+    "value": 9.171875,
     "unit": "MiB/s"
   },
   {
     "name": "sequential_read_four_threads",
-    "value": 12.361328125,
+    "value": 250.0908203125,
     "unit": "MiB/s"
   },
   {
     "name": "random_read_four_threads_direct_io",
-    "value": 6.7294921875,
+    "value": 9.71484375,
     "unit": "MiB/s"
   },
   {
     "name": "random_read_four_threads_direct_io_small_file",
-    "value": 52.921875,
+    "value": 63.978515625,
     "unit": "MiB/s"
   },
   {
     "name": "random_read_four_threads_small_file",
-    "value": 77578.7470703125,
+    "value": 73325.77734375,
     "unit": "MiB/s"
   },
   {
     "name": "random_read_direct_io",
-    "value": 1.427734375,
+    "value": 1.720703125,
     "unit": "MiB/s"
   },
   {
     "name": "random_read_direct_io_small_file",
-    "value": 7.021484375,
+    "value": 8.98046875,
     "unit": "MiB/s"
   },
   {
     "name": "random_read_small_file",
-    "value": 18617.9560546875,
+    "value": 18281.6025390625,
     "unit": "MiB/s"
   },
   {
     "name": "sequential_read_four_threads_direct_io",
-    "value": 1426.4296875,
+    "value": 1416.1220703125,
     "unit": "MiB/s"
   },
   {
     "name": "sequential_read_four_threads_direct_io_small_file",
-    "value": 277.162109375,
+    "value": 275.22265625,
     "unit": "MiB/s"
   },
   {
     "name": "sequential_read_four_threads_small_file",
-    "value": 73629.3466796875,
+    "value": 77699.4873046875,
     "unit": "MiB/s"
   },
   {
     "name": "sequential_read_direct_io",
-    "value": 1377.814453125,
+    "value": 1050.2470703125,
     "unit": "MiB/s"
   },
   {
     "name": "sequential_read_direct_io_small_file",
-    "value": 46.0576171875,
+    "value": 44.3984375,
     "unit": "MiB/s"
   },
   {
     "name": "sequential_read_small_file",
-    "value": 18161.4892578125,
+    "value": 17916.2412109375,
     "unit": "MiB/s"
   }
 ]
